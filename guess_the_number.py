@@ -1,6 +1,4 @@
-'''
-Guess the number???
-'''
+# Guess the number???
 
 import simplegui, random, math
 
