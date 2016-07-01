@@ -1,7 +1,6 @@
 #Rock, Paper, Scissors, Lizard, Spock:  Big Bang Theory
 #https://www.youtube.com/watch?v=iSHPVCBsnLw
 
-
 from random import randrange
 
 def number_to_name(number):
