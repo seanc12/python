@@ -1,18 +1,16 @@
-These files can be passed into http://www.codeskulptor.org
+These files can be passed into http://www.codeskulptor.org, then hit the play button...
 
-Week 1 programming assignment: Rock-paper-scissors-lizard-Spock
-http://www.codeskulptor.org/#user41_bBjrZh4hu7_0.py
+Week 1 "rock-paper-scissors-lizard-spock"
 
-Week 2 programming assignment: "Guess the number" game
-http://www.codeskulptor.org/#user41_8fgiwfmAij_0.py
+Week 2 "guess the number"
 
-Week 3 programming assignment: "Stopwatch: The Game"
+Week 3 "stopwatch"
 
-Week 4 programming assignment: "Pong"
+Week 4 "pong"
 
-Week 5 programming assignment: Memory
+Week 5 "memory"
 
-Week 6 programming assignment: Blackjack
+Week 6 "blackjack"
 
-Weeks 7 and 8 programming assignments: Spaceship -> RiceRocks (Asteroids)
+Week 7 "asteroids"
 
